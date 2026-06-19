@@ -76,6 +76,4 @@ To explore customer data and identify:
 ---
 
 ## Conclusion
-This project shows that churn is primarily driven by behavioral signals such as low engagement, low purchase frequency, support issues, and refund behavior. The findings can be used to design targeted retention strategies instead of generic marketing campaigns.Updated by Hasini
-Updated by Hasini
-initial commit
+This project shows that churn is primarily driven by behavioral signals such as low engagement, low purchase frequency, support issues, and refund behavior. The findings can be used to design targeted retention strategies instead of generic marketing campaigns.
